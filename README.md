@@ -13,7 +13,7 @@ Developed for use with Vanilla Minecraft and tested with 1.14<br>
 - [Aim of project](#Aim-of-project)
 - [Installation and Usage](#Installation-and-Usage)
 - [YouTube Video](#YouTube-Video)
-- [Next Phase of Project](#Next-Phase----Release-1.0)
+- [Next Phase of Project](#Next_Phase_-_Release_1.0)
 - [License](#License)
 - [Links](#Links)
 
